@@ -1,4 +1,4 @@
-                                                       Wine-Data-Analysis
+Wine-Data-Analysis
 
 
 ![image](https://user-images.githubusercontent.com/65599483/150961827-d276f6b3-e14d-485b-b758-8ee405132d58.png)
